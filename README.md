@@ -92,9 +92,9 @@ CREATE TABLE usuarios (
 );
 
 INSERT INTO usuarios (nombre, email, edad) VALUES
-('Ana García', 'ana@gmail.com', 25),
-('Carlos López', 'carlos@gmail.com', 30),
-('María Pérez', 'maria@gmail.com', 22);
+('Sofia Astudillo', 'sofia@gmail.com', 25),
+('Paul Garcia', 'paul@gmail.com', 30),
+('Camila Sanchez', 'camila@gmail.com', 22);
 
 ## 7. Resultados
 Se crearon correctamente los contenedores MySQL y phpMyAdmin.
